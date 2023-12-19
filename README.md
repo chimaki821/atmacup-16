@@ -3,6 +3,7 @@
 atmaCup #16 (https://www.guruguru.science/competitions/22/ ) での学生8位解法。
 
 ##　動かし方
+
 inディレクトリを作成しその中にデータ
 
 - test_log.csv
